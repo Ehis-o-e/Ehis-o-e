@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-😄 Pronouns: He/Him <br>
 🔭 I’m currently working on backend projects using Node.js, Express, and TypeScript, focusing on building solution to everyday problems.<br>
 🌱 I’m currently learning typescript and its applications.<br>
 👯 I’m looking to collaborate on fun challenging stuff.<br>
